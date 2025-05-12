@@ -121,10 +121,9 @@ I'm open to exciting freelance work, startup collaborations, and research-based 
 
 ## GitHub Stats
 
-![Adesanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adesanyaoluwa&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adesanyaoluwa&layout=compact&theme=github_dark)
+![Adesanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adesanya221&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adesanya221&layout=compact&theme=github_dark)
 
----
 
 ## Connect with Me
 
