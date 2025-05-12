@@ -1,4 +1,8 @@
-# Hi there, I'm Adesanya Oluwafisoyomi – Frontend Developer & Software Engineer
+<h1 align="center">
+  👨‍💻 Hi, I'm <span style="color:#0a66c2;">Adesanya Oluwafisoyomi</span> <br />
+  <img src="https://img.shields.io/badge/Frontend_Developer-blue?style=flat-square&logo=react" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/Software_Engineer-green?style=flat-square&logo=code" alt="Software Engineer" />
+</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adesanyaoluwafisayomi&color=blue" alt="Profile Views" />
