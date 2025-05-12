@@ -1,8 +1,8 @@
 # Hi there, I'm Adesanya Oluwafisoyomi – Frontend Developer & Software Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adesanyaoluwafisayomi&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/adesanyaoluwafisayomi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-informational?logo=firefox-browser&style=flat-square)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)]([https://linkedin.com/in/adesanyaoluwafisayomi](https://www.linkedin.com/in/oluwafisayomi-adesanya-09452922b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-informational?logo=firefox-browser&style=flat-square)]([https://your-portfolio-link.com](https://my-potifolio-95cf0.web.app/))
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 
 ---
@@ -74,7 +74,7 @@ I’m open to exciting freelance work, startup collaborations, and research-base
 
 ## Connect with Me
 
-[LinkedIn](https://linkedin.com/in/adesanya-oluwafisayomi) • [Twitter](https://twitter.com/adesanyafisayo) • [Portfolio](https://your-portfolio-link.com) • [Email](adesanyafisayo112@gmail.com)## Hi there 👋
+[LinkedIn]([https://linkedin.com/in/adesanya-oluwafisayomi](https://www.linkedin.com/in/oluwafisayomi-adesanya-09452922b/)) • [Portfolio]([https://your-portfolio-link.com](https://my-potifolio-95cf0.web.app/)) • [Email](adesanyafisayo112@gmail.com)## Hi there 👋
 
 <!--
 **Adesanya221/Adesanya221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
