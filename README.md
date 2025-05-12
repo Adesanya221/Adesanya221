@@ -1,19 +1,17 @@
 # Hi there, I'm Adesanya Oluwafisoyomi – Frontend Developer & Software Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adesanyaoluwafisayomi&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)]([https://linkedin.com/in/adesanyaoluwafisayomi](https://www.linkedin.com/in/oluwafisayomi-adesanya-09452922b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-informational?logo=firefox-browser&style=flat-square)]([https://your-portfolio-link.com](https://my-potifolio-95cf0.web.app/))
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/oluwafisayomi-adesanya-09452922b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-informational?logo=firefox-browser&style=flat-square)](https://my-potifolio-95cf0.web.app/)
 ---
 
 ## About Me
 
-I’m a passionate **Front-end Developer** with a strong focus on modern JavaScript frameworks, especially **React.js** and **Next.js**. I build performant, scalable, and elegant user interfaces that deliver intuitive user experiences.
+I'm a passionate Front-end Developer with a strong focus on modern JavaScript frameworks, especially React.js and Next.js. I build performant, scalable, and elegant user interfaces that deliver intuitive user experiences.
 
-Over time, I’ve expanded my knowledge across the full **MEMStack** (MongoDB, Express.js, Next.js, Node.js), diving deep into API integration, responsive UI/UX, SSR (Server-Side Rendering), and modern frontend architecture.
+Over time, I've expanded my knowledge across the full **MEMStack** (MongoDB, Express.js, Next.js, Node.js), diving deep into API integration, responsive UI/UX, SSR (Server-Side Rendering), and modern frontend architecture.
 
-I’m also a software researcher and engineer, with significant work in AI-driven projects like:
+I'm also a software researcher and engineer, with significant work in AI-driven projects like:
 
 - **Maize Disease Detection Model using Deep Learning**
 - Real-time crop classification with MobileNetV2
@@ -47,7 +45,7 @@ I’m also a software researcher and engineer, with significant work in AI-drive
 
 - **Maize Disease Detection Model**  
   *Deep learning model for precision agriculture using CNN & MobileNetV2, deployed with Streamlit.*  
-  [GitHub Repo](https://github.com/adesanya 221)
+  [GitHub Repo](https://github.com/adesanya221)
 
 - **Orderly** *(Remote Frontend Developer)*  
   *Building scalable frontend systems using Next.js for a food marketplace web app.*
@@ -57,9 +55,9 @@ I’m also a software researcher and engineer, with significant work in AI-drive
 
 ---
 
-## Let’s Collaborate
+## Let's Collaborate
 
-I’m open to exciting freelance work, startup collaborations, and research-based projects. Let’s build something meaningful.
+I'm open to exciting freelance work, startup collaborations, and research-based projects. Let's build something meaningful.
 
 > "Code is not just syntax – it's experience, empathy, and expression."
 
@@ -74,19 +72,4 @@ I’m open to exciting freelance work, startup collaborations, and research-base
 
 ## Connect with Me
 
-[LinkedIn]([https://linkedin.com/in/adesanya-oluwafisayomi](https://www.linkedin.com/in/oluwafisayomi-adesanya-09452922b/)) • [Portfolio]([https://your-portfolio-link.com](https://my-potifolio-95cf0.web.app/)) • [Email](adesanyafisayo112@gmail.com)## Hi there 👋
-
-<!--
-**Adesanya221/Adesanya221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/oluwafisayomi-adesanya-09452922b/) • [Portfolio](https://my-potifolio-95cf0.web.app/) • [Email](mailto:adesanyafisayo112@gmail.com)
