@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-View-informational?logo=firefox-browser&style=flat-square" alt="Portfolio" />
   </a>
 </div>
+
 ## About Me
 
 I'm a passionate Front-end Developer with a strong focus on modern JavaScript frameworks, especially React.js and Next.js. I build performant, scalable, and elegant user interfaces that deliver intuitive user experiences.
@@ -17,7 +18,6 @@ Over time, I've expanded my knowledge across the full **MEMStack** (MongoDB, Exp
 
 I'm also a software researcher and engineer, with significant work in AI-driven projects like:
 
-- **Maize Disease Detection Model using Deep Learning**
 - Real-time crop classification with MobileNetV2
 - Web deployment using **Streamlit**, **TensorFlow.js**, and **custom UI dashboards**
 
@@ -83,9 +83,25 @@ I'm also a software researcher and engineer, with significant work in AI-driven 
 
 ## Featured Projects
 
-- **Maize Disease Detection Model**  
-  *Deep learning model for precision agriculture using CNN & MobileNetV2, deployed with Streamlit.*  
-  [GitHub Repo](https://github.com/adesanya221)
+- **Modern Portfolio Web App**  
+  *A modern, responsive portfolio website that showcases my work as a frontend developer, highlighting my skills, project details, and experience in an interactive and visually appealing layout. Built with React, TailwindCSS, Material UI, TypeScript, and Firebase.*  
+  [GitHub Repo](https://github.com/Adesanya221/My-Potifolio-.git)
+
+- **Ogun Weather Web App**  
+  *A location-based weather app built with React and FastAPI. It provides real-time weather updates based on Ogun State data, using custom API integration. Styled with Tailwind CSS and deployed with Firebase.*  
+  [GitHub Repo](https://github.com/Adesanya221/Ogun-weather.git)
+
+- **Classic Snake Game Web App**  
+  *Browser-based snake game using HTML5 Canvas, JavaScript, and CSS. Demonstrates logic, animation, and game responsiveness. Designed for both desktop and mobile users. Deployed via Firebase Hosting.*  
+  [GitHub Repo](https://github.com/Adesanya221/Classic-Snake-Game-Web-App.git)
+
+- **GreenThumb Cannabis**  
+  *A clean, responsive portfolio website for a cannabis brand built with React, TailwindCSS, Material UI, and TypeScript. Includes intuitive navigation and dark mode support for a premium user experience.*  
+  [GitHub Repo](https://github.com/Adesanya221/MY-REACT-PROJECT.git)
+
+- **Storytime Bookstore**  
+  *An e-commerce frontend for purchasing children’s books. Features intuitive navigation, clean UI, and responsive layout. Developed using React and Tailwind CSS.*  
+  [GitHub Repo](https://github.com/Adesanya221/storytime-bookstore-front.git)
 
 - **Orderly** *(Remote Frontend Developer)*  
   *Building scalable frontend systems using Next.js for a food marketplace web app.*
@@ -99,7 +115,7 @@ I'm also a software researcher and engineer, with significant work in AI-driven 
 
 I'm open to exciting freelance work, startup collaborations, and research-based projects. Let's build something meaningful.
 
-> "Code is not just syntax – it's experience, empathy, and expression."
+> "Code is not just syntax – experience, empathy, and expression."
 
 ---
 
