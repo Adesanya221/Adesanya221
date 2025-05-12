@@ -1,10 +1,14 @@
 # Hi there, I'm Adesanya Oluwafisoyomi – Frontend Developer & Software Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=adesanyaoluwafisayomi&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/oluwafisayomi-adesanya-09452922b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-informational?logo=firefox-browser&style=flat-square)](https://my-potifolio-95cf0.web.app/)
----
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adesanyaoluwafisayomi&color=blue" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/oluwafisayomi-adesanya-09452922b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="https://my-potifolio-95cf0.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View-informational?logo=firefox-browser&style=flat-square" alt="Portfolio" />
+  </a>
+</div>
 ## About Me
 
 I'm a passionate Front-end Developer with a strong focus on modern JavaScript frameworks, especially React.js and Next.js. I build performant, scalable, and elegant user interfaces that deliver intuitive user experiences.
